@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potoki", "Potoki\Potoki.csproj", "{3304530F-03EE-4F16-AF00-FCCB765CF7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3304530F-03EE-4F16-AF00-FCCB765CF7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304530F-03EE-4F16-AF00-FCCB765CF7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304530F-03EE-4F16-AF00-FCCB765CF7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304530F-03EE-4F16-AF00-FCCB765CF7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E16649-9FE0-43E2-80C4-7E922534FC92}
+	EndGlobalSection
+EndGlobal
